@@ -1,4 +1,4 @@
-Materialize# Tic Tac Toe Lab
+# Tic Tac Toe Lab
 
 **Objective:** Build a tic-tac-toe game in HTML, CSS, and JavaScript.
 
