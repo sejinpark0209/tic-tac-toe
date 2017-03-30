@@ -1,9 +1,9 @@
-# Tic Tac Toe Lab
+Materialize# Tic Tac Toe Lab
 
 **Objective:** Build a tic-tac-toe game in HTML, CSS, and JavaScript.
 
 
-We've been learning about working with conditionals and loops, as well as writing functions. We've also learned about the structure of the DOM and how we can interact with it using CSS and JavaScript. We've looked at Bootstrap's CSS library and at jQuery, a JavaScript library for front end web development.
+We've been learning about working with conditionals and loops, as well as writing functions. We've also learned about the structure of the DOM and how we can interact with it using CSS and JavaScript. We've looked at Materialize's CSS library and at jQuery, a JavaScript library for front end web development.
 
 For this lab, we'll be making a tic-tac-toe game using the knowledge and skills you've learned so far.
 
@@ -42,11 +42,11 @@ Remind yourself how tic-tac-toe works by playing a few games with a classmate.
 
 2. Use `index.html` as your starting point on this project. There is already some starter code in `index.html`, `css/style.css`, and `js/app.js`.
 
-1. Make sure that jQuery and Bootstrap's CSS are linked in your `index.html`. Also link your custom CSS and JavaScript files to your `index.html`.
+1. Make sure that jQuery and Materialize's CSS are linked in your `index.html`. Also link your custom CSS and JavaScript files to your `index.html`.
 
 3. Test that your CSS and JavaScript files are linked to your `index.html`. Add an alert or a `console.log` to `app.js`, and change the color of the body in `style.css`. Then open `index.html` in the browser. You should see part of an empty tic-tac-toe game board with your background color, and you should also see your alert or log message.
 
-1. There's part of a board in `index.html` already. Use Bootstrap's grid system to create the rest of the empty tic-tac-toe game board. The empty board should look like this:
+1. There's part of a board in `index.html` already. Use Materialize's grid system to create the rest of the empty tic-tac-toe game board. The empty board should look like this:
 
     <img src="board.png" width="300px" alt="empty tic tac toe board">
 
